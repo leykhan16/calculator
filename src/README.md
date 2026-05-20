@@ -11,7 +11,7 @@ This project demonstrates core Rust fundamentals including input handling, parsi
 - Supports basic arithmetic operations:
   - Addition (+)
   - Subtraction (-)
-  - Multiplication (*)
+  - Multiplication (\*)
   - Division (/)
 - Handles invalid operators
 - Prevents division by zero
@@ -27,15 +27,3 @@ This project demonstrates core Rust fundamentals including input handling, parsi
 - Pattern matching with `match`
 - Error handling using `expect`
 - String parsing (`trim()`, `parse()`)
-
----
-
-## 🛠️ Installation & Setup
-
-1. Install Rust:
-   https://www.rust-lang.org/tools/install
-
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/rust-calculator.git
-   cd rust-calculator
